@@ -1,5 +1,5 @@
 # LTDT-BTQT
-Bài tập quá trình các tuần\n
+Bài tập quá trình các tuần
 **BT1**
 https://github.com/TamaOwO/Baitap01
 **BT2**
